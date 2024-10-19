@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\QLCuaHangTienLoi(DoAn) - Dang Lam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|d:\\source\\repos\\qlcuahangtienloi(doan) - dang lam\\productgatetoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|solutionrelative:productgatetoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|D:\\source\\repos\\QLCuaHangTienLoi(DoAn) - Dang Lam\\productgatetoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|solutionrelative:productgatetoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|d:\\source\\repos\\qlcuahangtienloi(doan) - dang lam\\addproductuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|solutionrelative:addproductuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductGatetoryForm.cs",
+              "DocumentMoniker": "D:\\source\\repos\\QLCuaHangTienLoi(DoAn) - Dang Lam\\ProductGatetoryForm.cs",
+              "RelativeDocumentMoniker": "ProductGatetoryForm.cs",
+              "ToolTip": "D:\\source\\repos\\QLCuaHangTienLoi(DoAn) - Dang Lam\\ProductGatetoryForm.cs",
+              "RelativeToolTip": "ProductGatetoryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:27:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductUC.cs",
+              "DocumentMoniker": "D:\\source\\repos\\QLCuaHangTienLoi(DoAn) - Dang Lam\\AddProductUC.cs",
+              "RelativeDocumentMoniker": "AddProductUC.cs",
+              "ToolTip": "D:\\source\\repos\\QLCuaHangTienLoi(DoAn) - Dang Lam\\AddProductUC.cs",
+              "RelativeToolTip": "AddProductUC.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwFIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:17:09.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductGatetoryForm.cs [Design]",
+              "DocumentMoniker": "D:\\source\\repos\\QLCuaHangTienLoi(DoAn) - Dang Lam\\ProductGatetoryForm.cs",
+              "RelativeDocumentMoniker": "ProductGatetoryForm.cs",
+              "ToolTip": "D:\\source\\repos\\QLCuaHangTienLoi(DoAn) - Dang Lam\\ProductGatetoryForm.cs [Design]",
+              "RelativeToolTip": "ProductGatetoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:19:17.535Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
